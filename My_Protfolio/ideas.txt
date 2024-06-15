@@ -1,0 +1,5 @@
+make a tech stack section
+
+All =>lisbon,omnifood, home , ecommerce, ai bot,blog
+ui => lisbon,omnifood, home
+web => ecommerce, ai bot,blog
